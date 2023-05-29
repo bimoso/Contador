@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background: rgb(99, 99, 99);
+    color: white;
+    margin: 10px;
+}
+
+.botones button {
+    background: rgb(98, 145, 172);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
