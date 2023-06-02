@@ -12,6 +12,26 @@
     border: none;
     border-radius: 5px;
     padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.botones input {
+    background: rgb(142, 169, 184);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    cursor: text;
+}
+
+.btn {
+    background: rgb(98, 145, 172);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
     margin: 10px;
     cursor: pointer;
 }
